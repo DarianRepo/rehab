@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Signika&display=swap');
+
+body{ 
+    background-color: rgb(29, 29, 29);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.btn{
+    font-size: 125%;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    background-color: rgb(43, 43, 43);
+    border-radius: 15px;
+}
+
+.top-btn{
+        font-size: 100%;
+        color:white;
+        text-decoration: none;
+        padding: 20px;
+        background-color: rgb(43, 43, 43);
+        border-radius: 15px;
+}
+.welcome{
+    margin: 0;
+    padding: 0;
+    width:100%;
+    height: 100%;
+    display: inline-block;
+}
+.Title {
+    color: rgb(255, 255, 255);
+    font-size: 5vh;
+    margin: 20%;
+    display: inline-block;
+}
+
+.img-responsive{
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+}
+
+.m1{
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px;
+    width: 30%;
+    height: 40%;
+    border-right: 2px solid rgb(49, 61, 173);
+}
+
+
+
+
+@media (max-width:650px) {
+    .Title{
+        font-size: 3vh;
+    }
+    .info{
+
+        font-size: 2vh;
+    }
+    .info-under{
+        font-size: 1.5vh;
+
+    }
+}
+
