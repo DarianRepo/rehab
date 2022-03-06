@@ -33,13 +33,13 @@ body{
     margin: 0;
     padding: 0;
     width:100%;
-    height: 70%;
+    height: 100%;
     display: inline-block;
 }
 .Title {
     color: rgb(255, 255, 255);
     font-size: 5vh;
-    margin: 20%;
+    margin: 40%;
     display: inline-block;
 }
 
