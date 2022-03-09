@@ -1,4 +1,4 @@
 # rehab
 an sms service
 
-CACTI4 IS NO LONGER AFFILIATED WITH REHAB SERVICES
+*cacti4 is not affiliated with us*
